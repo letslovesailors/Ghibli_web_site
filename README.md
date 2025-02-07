@@ -53,7 +53,3 @@ git pull origin main
 - HTML
 - CSS
 
-## ✨ Auteur
-
-Ton Nom
-
