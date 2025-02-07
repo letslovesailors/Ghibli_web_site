@@ -11,19 +11,20 @@ body {
 /* --- TITRES --- */
 h1 {
     text-align: center;
-    color: #000000;
+    color: #122669;
     margin-top: 100px; /* Augmenté pour ne pas être caché par le menu */
     font-size: 60px; /* Taille plus adaptée */
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h2 {
-    color: #000000;
+    color: #122669;
     border-bottom: 2px solid #95e06a;
     padding-bottom: 5px;
 }
 
 h3 {
-    color: #8e44ad;
+    color: #122669;
 }
 
 /* --- LISTES --- */
@@ -62,10 +63,10 @@ tr:nth-child(even) {
 /* --- IMAGES --- */
 img {
     transition: all 0.5s ease;
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
-    margin: 20px auto;
+    margin: 50px auto;
     border: 2px solid #ffffff;
     border-radius: 10px;
 }
@@ -79,9 +80,13 @@ section {
     margin-bottom: 30px;
     padding: 15px;
     background-color: rgb(255, 255, 255);
-    border-radius: 8px;
+    border-radius: 9px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
+    margin-left: 2rem;
+    margin-right: 2rem;
+} 
+
+
 
 /* --- NAVIGATION FIXE --- */
 nav {
