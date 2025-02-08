@@ -2,19 +2,6 @@
 
 Ce projet est un site web présentant l'histoire du Studio Ghibli.
 
-## 🚀 Installation
-
-1. **Cloner le repo** :
-   ```sh
-   git clone https://github.com/ton-utilisateur/nom-du-repo.git
-   ```
-2. **Se déplacer dans le dossier** :
-   ```sh
-   cd nom-du-repo
-   ```
-3. **Lancer le projet** :
-   - Ouvrir `index.html` dans un navigateur.
-
 ## 📌 Commandes Git utiles
 
 ### 🔹 Initialiser Git
@@ -47,9 +34,3 @@ git push -u origin main
 ```sh
 git pull origin main
 ```
-
-## 🛠 Technologies utilisées
-
-- HTML
-- CSS
-
